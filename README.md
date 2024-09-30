@@ -8,7 +8,7 @@
 | | Crypto | |
 | | Crypto | |
 | | Crypto | |
-| THJCC CTF 2024 | web | |
+| THJCC CTF 2024 | Web & Misc | FFAM(Find Flag Automaticaliiy Machine) |
 | | Crypto | JPG^PNG=? |
 | | Crypto | 《SSS.GRIDMAN》|
 | | Reverse | PYC REVERSE |
@@ -16,4 +16,3 @@
 | | Misc | PyJail-1 |
 | | Misc | Geoguesser??? |
 | | Misc | I want to go to Japan! |
-| | Web & Misc | FFAM(Find Flag Automaticaliiy Machine) |
