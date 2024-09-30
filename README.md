@@ -16,3 +16,4 @@
 | | Misc | PyJail-1 |
 | | Misc | Geoguesser??? |
 | | Misc | I want to go to Japan! |
+| FSCS CTF 2024 | Pwn | slime machine |
