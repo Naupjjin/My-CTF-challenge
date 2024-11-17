@@ -13,3 +13,5 @@
 | FSCS CTF 2024 | Pwn | slime machine | https://github.com/Naupjjin/My-CTF-challenge/tree/main/FSCS-CTF-2024/slime_machine |
 | No hack No CTF 2024 | Pwn | slime machine revenge | |
 | | Pwn | slime machine revenge revenge | |
+| THJCC CTF 2024 winter | Pwn | 🎭🎭🎭🎭🎭Welcome to AVE Mujica🎶  |  |
+| THJCC CTF 2024 winter | Web、Pwn、reverse | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 |  |
