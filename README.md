@@ -2,7 +2,7 @@
 ## 2023 & 2024
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
-| THJCC CTF 2024 | Web & Misc | FFAM(Find Flag Automaticaliiy Machine) | https://github.com/Naupjjin/THJCC-CTF-2024/tree/main/Web/FFAM |
+| THJCC CTF 2024 summer | Web & Misc | FFAM(Find Flag Automaticaliiy Machine) | https://github.com/Naupjjin/THJCC-CTF-2024/tree/main/Web/FFAM |
 | | Crypto | JPG^PNG=? | https://github.com/Naupjjin/THJCC-CTF-2024/tree/main/Crypto/img-xor |
 | | Crypto | 《SSS.GRIDMAN》| https://github.com/Naupjjin/THJCC-CTF-2024/tree/main/Crypto/SSS |
 | | Reverse | PYC REVERSE | https://github.com/Naupjjin/THJCC-CTF-2024/tree/main/reverse/pyc |
