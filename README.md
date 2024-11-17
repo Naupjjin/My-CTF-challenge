@@ -17,3 +17,5 @@
 | | Misc | Geoguesser??? |
 | | Misc | I want to go to Japan! |
 | FSCS CTF 2024 | Pwn | slime machine |
+| No hack No CTF | Pwn | slime machine revenge |
+| | Pwn | slime machine revenge revenge |
