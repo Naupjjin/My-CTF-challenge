@@ -14,4 +14,4 @@
 | No hack No CTF 2024 | Pwn | slime machine revenge | |
 | | Pwn | slime machine revenge revenge | |
 | THJCC CTF 2024 winter | Pwn | 🎭🎭🎭🎭🎭Welcome to AVE Mujica🎶  |  |
-| | Web、Pwn、reverse | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 |  |
+| | Web & Pwn & reverse | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 |  |
