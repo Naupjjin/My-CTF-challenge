@@ -10,5 +10,5 @@ Just puts some I thnk I well designed challenge!!!
 | FSCS CTF 2024 | Pwn | slime machine | https://github.com/Naupjjin/My-CTF-challenge/tree/main/FSCS-CTF-2024/slime_machine |
 | No hack No CTF 2024 | Pwn | slime machine revenge | https://github.com/Naupjjin/NHNC-CTF-challege/tree/main/slime_machine_revenge |
 | | Pwn | slime machine revenge revenge | https://github.com/Naupjjin/NHNC-CTF-challege/tree/main/slime_revenge_revenge |
-| THJCC CTF 2024 winter | Pwn | 🎭🎭🎭🎭🎭Welcome to AVE Mujica🎶  | https://github.com/Naupjjin/THJCC-CTF-2024-2th/tree/main/welcome-to-avemujica |
-| | Web & Pwn & reverse | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 | https://github.com/Naupjjin/THJCC-CTF-2024-2th/tree/main/ItsMygo-GolangFuneral |
+| THJCC CTF 2024 winter | Pwn | 🎭🎭🎭🎭🎭Welcome to AVE Mujica🎶  | https://github.com/Naupjjin/THJCC-CTF-2024-winter/tree/main/welcome-to-avemujica |
+| | Web & Pwn & reverse | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 | https://github.com/Naupjjin/THJCC-CTF-2024-winter/tree/main/ItsMygo-GolangFuneral |
