@@ -2,6 +2,12 @@
 > Author: 堇姬Naup
 
 Just puts some I thnk I well designed challenge!!! 
+
+## 2025
+| CTF Name | Category | Challenge Name | repo link |
+| - | - | - | - |
+| THJCC CTF 2025 Summer	| Pwn | NAUPMD v0.0.0 📒📕📘 |  |
+
 ## 2024
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
