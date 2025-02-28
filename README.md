@@ -9,7 +9,7 @@ Just puts some I thnk I well designed challenge!!!
 | THJCC CTF 2025 Summer	| Pwn | NAUPMD v0.0.0 📒📕📘 |  |
 | SITCON 2025 Practice CTF	| Pwn | CRYCHIC never died ... 🌸☀️📷 |  |
 | | Web | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 (patched version) |  |
-
+| | Crypto | Uika's Secret 🕸️ | | 
 ## 2024
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
