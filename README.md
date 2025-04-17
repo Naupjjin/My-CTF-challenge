@@ -10,6 +10,8 @@ Just puts some I thnk I well designed challenge!!!
 | SITCON 2025 Practice CTF	| Pwn | CRYCHIC never died ... 🌸☀️📷 | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/CRICHIC_never_died) |
 | | Web | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 (patched version) | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/ItsMyGo_GolangFuneral) |
 | | Crypto | Uika's Secret 🕸️ | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/UikaSecret) | 
+| ICED CLUB 2025 CTF	| Pwn | ⚔️ Simple Note SP0 release 👻 |  |
+| 	| Pwn | 💧 Pure Magic 💧 |  |
 
 ## 2024
 | CTF Name | Category | Challenge Name | repo link |
