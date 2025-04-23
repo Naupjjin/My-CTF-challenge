@@ -6,7 +6,7 @@ Just puts some I thnk I well designed challenge!!!
 ## 2025
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
-| THJCC CTF 2025 Summer	| Pwn | NAUPMD v0.0.0 📒📕📘 |  |
+| THJCC CTF 2025 Summer	| Pwn | NAUPMD v0.0.0 📒📕📘 | [LINK](https://github.com/Naupjjin/THJCC-CTF-2025-summer/tree/main/NAUPMD_v0) |
 | SITCON 2025 Practice CTF	| Pwn | CRYCHIC never died ... 🌸☀️📷 | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/CRICHIC_never_died) |
 | | Web | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 (patched version) | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/ItsMyGo_GolangFuneral) |
 | | Crypto | Uika's Secret 🕸️ | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/UikaSecret) | 
