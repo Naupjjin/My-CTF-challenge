@@ -12,10 +12,10 @@ Just puts some I thnk I well designed challenge!!!
 | | Crypto | Uika's Secret 🕸️ | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/UikaSecret) | 
 | 2025 ICED CLUB CTF	| Pwn | ⚔️ Simple Note SP0 release 👻 |  |
 | 	| Pwn | 💧 Pure Magic 💧 |  |
-| 2025 AIS3 pre-exam & My First CTF	| Pwn | MyGO schedule manager α |  |
-| 	| Pwn | MyGO schedule manager β |  |
-| 	| Web | Tomorin db 🐧 |  |
-| 	| Misc | ♖ PyWars ♖ |  |
+| 2025 AIS3 pre-exam & My First CTF	| Pwn | MyGO schedule manager α | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/MyGO-schedule-manager-alpha) |
+| 	| Pwn | MyGO schedule manager β | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/MyGO-schedule-manager-beta) |
+| 	| Web | Tomorin db 🐧 | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/tomorin_db) |
+| 	| Misc | ♖ PyWars ♖ | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/PyWars) |
 | 2025 NHNC CTF  | Pwn | No.5️⃣4️⃣9️⃣ | |
 
 ## 2024
