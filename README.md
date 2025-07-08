@@ -16,7 +16,7 @@ Just puts some I thnk I well designed challenge!!!
 | 	| Pwn | MyGO schedule manager β | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/MyGO-schedule-manager-beta) |
 | 	| Web | Tomorin db 🐧 | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/tomorin_db) |
 | 	| Misc | ♖ PyWars ♖ | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/PyWars) |
-| 2025 NHNC CTF  | Pwn | No.5️⃣4️⃣9️⃣ | |
+| 2025 NHNC CTF  | Pwn | No.5️⃣4️⃣9️⃣ | [LINK](https://github.com/Naupjjin/2025-NHNC-CTF-challenge/tree/main/No549) |
 
 ## 2024
 | CTF Name | Category | Challenge Name | repo link |
