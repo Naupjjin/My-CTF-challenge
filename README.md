@@ -17,6 +17,7 @@ Just puts some I thnk I well designed challenge!!!
 | 	| Web | Tomorin db 🐧 | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/tomorin_db) |
 | 	| Misc | ♖ PyWars ♖ | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/PyWars) |
 | 2025 NHNC CTF  | Pwn | No.5️⃣4️⃣9️⃣ | [LINK](https://github.com/Naupjjin/2025-NHNC-CTF-challenge/tree/main/No549) |
+| 2025 AIS3 | King of hill | Mortis GO!!!!! | [LINK](https://github.com/Naupjjin/2025-AIS3-KoH) |
 
 ## 2024
 | CTF Name | Category | Challenge Name | repo link |
