@@ -7,9 +7,6 @@ Just puts some I thnk I well designed challenge!!!
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
 | 2025 THJCC CTF Summer	| Pwn | NAUPMD v0.0.0 📒📕📘 | [LINK](https://github.com/Naupjjin/THJCC-CTF-2025-summer/tree/main/NAUPMD_v0) |
-| 2025 SITCON Practice CTF	| Pwn | CRYCHIC never died ... 🌸☀️📷 | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/CRICHIC_never_died) |
-| | Web | It's Mygo!!!!!🎤🎸🎸🥁🎸 Golang's Funeral 🎹 (patched version) | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/ItsMyGo_GolangFuneral) |
-| | Crypto | Uika's Secret 🕸️ | [LINK](https://github.com/Naupjjin/SITCON-2025-Challenge/tree/main/UikaSecret) | 
 | 2025 ICED CLUB CTF	| Pwn | ⚔️ Simple Note SP0 release 👻 |  |
 | 	| Pwn | 💧 Pure Magic 💧 |  |
 | 2025 AIS3 pre-exam & My First CTF	| Pwn | MyGO schedule manager α | [LINK](https://github.com/Naupjjin/2025-AIS3-pre-exam-challenge/tree/main/MyGO-schedule-manager-alpha) |
