@@ -3,6 +3,12 @@
 
 Just puts some I thnk I well designed challenge!!! 
 
+## 2026
+| CTF Name | Category | Challenge Name | repo link |
+| - | - | - | - |
+| 2026 AIS3 EOF Final  | A&D  | 都 2026 了誰還在 PTT 推文啊？  | [LINK](https://github.com/Naupjjin/2026-AIS3-EOF-Final-A-D-PTT)  |
+|  | LiveCTF (Pwn) | 開局就送魔 Shellcode | [LINK](https://github.com/pwn2ooown/LiveCTF-EOF2026/tree/main/pwn-shellcodegame) |
+
 ## 2025
 | CTF Name | Category | Challenge Name | repo link |
 | - | - | - | - |
